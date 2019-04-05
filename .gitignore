@@ -1,0 +1,8 @@
+db.sqlite3
+learning_log/__pycache__/
+learning_logs/__pycache__/
+learning_logs/migrations/0001_initial.py
+learning_logs/migrations/0002_entry.py
+learning_logs/migrations/__pycache__/
+ll_env/
+manage.py
