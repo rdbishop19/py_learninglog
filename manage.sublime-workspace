@@ -1,0 +1,360 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text-",
+				"text-align\tproperty"
+			],
+			[
+				"text",
+				"text-transform\tproperty"
+			],
+			[
+				"fo",
+				"footer\tTag"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"scre",
+				"screen_rect"
+			],
+			[
+				"check_",
+				"check_fleet_edges"
+			],
+			[
+				"alie",
+				"aliens"
+			],
+			[
+				"random",
+				"random_b"
+			],
+			[
+				"rand",
+				"random_g"
+			],
+			[
+				"row",
+				"row_number"
+			],
+			[
+				"alien",
+				"alien_number"
+			],
+			[
+				"num",
+				"number_aliens_x"
+			],
+			[
+				"ro",
+				"number_rows"
+			],
+			[
+				"get",
+				"get_number_rows"
+			],
+			[
+				"alin",
+				"alien"
+			],
+			[
+				"number",
+				"number_rows"
+			],
+			[
+				"al",
+				"alien_height"
+			],
+			[
+				"ship",
+				"ship_height"
+			],
+			[
+				"ali",
+				"alien_number"
+			],
+			[
+				"win32",
+				"win32con"
+			],
+			[
+				"win",
+				"win32con"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"open in ",
+				"Open in Browser: Guide"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package control",
+				"Package Control: Add Channel"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"Git: Status",
+				"Git: Status"
+			],
+			[
+				"Install Package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+			"Git: Status",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/BishopRD/Desktop/Coding/_github/learning_log"
+	],
+	"file_history":
+	[
+		"/C/Users/BishopRD/Desktop/Coding/_github/learning_log/learning_log/settings.py",
+		"/C/Users/BishopRD/Desktop/Coding/_github/learning_log/learning_log/urls.py",
+		"/C/Users/BishopRD/Desktop/Coding/_github/learning_log/learning_logs/urls.py",
+		"/C/Users/BishopRD/Desktop/Coding/_personalpage/html1.html",
+		"/C/Users/BishopRD/Desktop/Coding/_personalpage/style1.css",
+		"/C/Users/BishopRD/Desktop/Coding/_github/learning_log/learning_logs/templates/learning_logs/topic.html",
+		"/C/Users/BishopRD/Desktop/Coding/_github/learning_log/learning_logs/templates/learning_logs/topics.html",
+		"/C/Users/BishopRD/Desktop/Coding/_github/learning_log/learning_logs/templates/learning_logs/base.html",
+		"/C/Users/BishopRD/Desktop/Coding/_github/learning_log/learning_logs/templates/learning_logs/index.html",
+		"/C/Users/BishopRD/Desktop/Coding/_github/learning_log/learning_log/wsgi.py",
+		"/C/Users/BishopRD/Desktop/Coding/_github/learning_log/learning_logs/admin.py",
+		"/C/Users/BishopRD/Desktop/Coding/_github/learning_log/learning_logs/apps.py",
+		"/C/Users/BishopRD/Desktop/Coding/_github/learning_log/learning_logs/models.py",
+		"/C/Users/BishopRD/Desktop/Coding/_github/learning_log/learning_logs/tests.py",
+		"/C/Users/BishopRD/Desktop/Coding/_github/learning_log/learning_logs/views.py",
+		"/C/Users/BishopRD/AppData/Roaming/Sublime Text 3/Packages/View In Browser/View In Browser.sublime-settings",
+		"/C/Users/BishopRD/AppData/Roaming/Sublime Text 3/Packages/User/View In Browser.sublime-settings",
+		"/C/Users/BishopRD/AppData/Roaming/Sublime Text 3/Packages/Open In Browser/README.md",
+		"/C/Users/BishopRD/Desktop/STACY+JD",
+		"/C/Users/BishopRD/Desktop/RDB/Ryan Song Sheets/My Own One",
+		"/C/Users/BishopRD/Desktop/RDB/Ryan Song Sheets/you light up my stars",
+		"/C/Users/BishopRD/Desktop/Coding/_github/learning_log/learning_logs/templates/index.html",
+		"/C/Users/BishopRD/Desktop/RDB/Ryan Song Sheets/if you're gonna love me",
+		"/C/Users/BishopRD/Desktop/RDB/Ryan Song Sheets/be alright",
+		"/C/Users/BishopRD/Documents/Current Projects/_Cayuga/errornotes.txt",
+		"/C/Users/BishopRD/Documents/Current Projects/_Diamond PF/TreatResinFEASIBILITY.txt",
+		"/C/Users/BishopRD/Documents/Current Projects/_Mountaire_/notes from DH.txt",
+		"/C/Users/BishopRD/AppData/Local/Temp/7zO497734BA/p_plsAlgorithms.m",
+		"/C/Users/BishopRD/AppData/Local/Temp/7zO497CA43D/p_temperatureCompensationGui.m",
+		"/C/Users/BishopRD/AppData/Local/Temp/7zO497807EE/resultsPlusProperties.m",
+		"/C/Users/BishopRD/Desktop/Coding/_JAVA/JAVA NOTES.txt",
+		"/C/Users/BishopRD/Desktop/Coding/_python/Python GUI notes.txt",
+		"/C/Users/BishopRD/Desktop/Perten Resources/ARCHIVING IN RESULTS PLUS",
+		"/C/Users/BishopRD/Documents/Current Projects/_Nutec (OMG)/NetPlus notes.txt",
+		"/C/Users/BishopRD/Documents/Current Projects/_Cayuga/missing file.txt",
+		"/C/Users/BishopRD/Desktop/Perten Calibration Tool/PCT_ideas.txt",
+		"/C/Users/BishopRD/Desktop/Autohotkey/CalDB/distros/testing/ManageTypes.txt",
+		"/C/my_py_scripts/alien_invasion/notes.txt",
+		"/C/my_py_scripts/alien_invasion/game_stats.py",
+		"/C/my_py_scripts/alien_invasion/alien_invasion.py",
+		"/C/my_py_scripts/alien_invasion/settings.py",
+		"/C/my_py_scripts/alien_invasion/bullet.py",
+		"/C/my_py_scripts/alien_invasion/ship.py",
+		"/C/my_py_scripts/alien_invasion/alien.py",
+		"/C/my_py_scripts/alien_invasion/game_functions.py",
+		"/C/Users/BishopRD/Desktop/env_test/main.py",
+		"/C/Users/BishopRD/Desktop/Autohotkey/CalDB/distros/testing/_newfeatures.txt",
+		"/C/Users/BishopRD/Desktop/CalDB/Dev/CalDB LIST.txt",
+		"/C/Users/BishopRD/Desktop/SN1822717_del_log.txt",
+		"/C/Users/BishopRD/Desktop/SN1822717_del_log",
+		"/C/my_py_scripts/downloadXkcd.py",
+		"/C/Users/BishopRD/Desktop/Perten Resources/PerkinElmer/PKI_instruments",
+		"/C/my_py_scripts/dirLog1.py",
+		"/C/my_py_scripts/tech_notes.txt",
+		"/C/my_py_scripts/eventbrite_engineers.py",
+		"/C/Users/BishopRD/Desktop/Perten Resources/BLOB_1.bin",
+		"/C/Users/BishopRD/Desktop/Perten Resources/NIR CALIBRATION DATABASE PROPOSAL",
+		"/C/Users/BishopRD/AppData/Roaming/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
+		"/C/Users/BishopRD/AppData/Roaming/Sublime Text 3/Packages/Default/Distraction Free.sublime-settings",
+		"/C/Python/WikiBacon2.py"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"js demo",
+			"georgia",
+			"tahoma",
+			"em",
+			"django",
+			"blitme",
+			"60",
+			"3",
+			"[",
+			"000a42",
+			"e90d",
+			"55",
+			"0d010d00"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"t.["
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "manage.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
