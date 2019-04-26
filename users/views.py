@@ -4,10 +4,10 @@ from django.urls import reverse
 from django.contrib.auth import login, authenticate
 from django.contrib.auth.forms import UserCreationForm
 
-def logout_view(request):
-    """Log the user out."""
-    logout(request)
-    return HttpResponseRedirect(reverse('learning_logs:index'))
+# def logout_view(request):
+#     """Log the user out."""
+#     logout(request)
+#     return HttpResponseRedirect(reverse('learning_logs:index'))
 
 # Create your views here.
 def register(request):

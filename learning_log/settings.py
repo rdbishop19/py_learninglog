@@ -128,6 +128,7 @@ STATIC_URL = '/static/'
 
 # My settings
 LOGIN_URL = '/users/login/'
+LOGOUT_REDIRECT_URL = '/'
 
 # Settings for django-bootstrap3
 BOOTSTRAP3 = {
