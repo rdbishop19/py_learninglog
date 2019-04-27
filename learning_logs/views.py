@@ -2,6 +2,7 @@ from django.shortcuts import render
 from django.http import HttpResponseRedirect, Http404
 from django.urls import reverse
 from django.contrib.auth.decorators import login_required
+# from django.views.generic.edit import DeleteView
 
 from .models import Topic, Entry
 from .forms import TopicForm, EntryForm
@@ -88,6 +89,10 @@ def edit_entry(request, entry_id):
     else:
         # POST data submitted; process data
         form = EntryForm(instance=entry, data=request.POST)
+        request_name = request.POST.get('name')
+
+        # TODO: add 'delete entry' method
+
         if form.is_valid():
             form.save()
             return HttpResponseRedirect(reverse('learning_logs:topic',
@@ -95,3 +100,13 @@ def edit_entry(request, entry_id):
 
     context = {'entry': entry, 'topic': topic, 'form': form}
     return render(request, 'learning_logs/edit_entry.html', context)
+
+# TODO : add DELETE_ENTRY ability
+# @login_required
+# def entry_confirm_delete(request, entry_id):
+#     entry = Entry.objects.get(id=entry_id)
+#     entry.delete()
+
+# class EntryDelete(DeleteView):
+#     model = Entry
+#     success_url = reverse_lazy('topic')
